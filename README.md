@@ -1,5 +1,5 @@
 # taller
 
-Hola esta es una prueba para el taller
+Hola soy gaston!
 
 Hola soy el segundo compañero.
